@@ -1,0 +1,5 @@
+vendor_severity,severity
+ERROR,high
+WARN,low
+INFO,informational
+DEBUG,informational
